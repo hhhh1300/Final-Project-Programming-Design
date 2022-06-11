@@ -1,0 +1,51 @@
+﻿  AfterGame.cpp
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\AfterGame.cpp(19,68): warning C4244: '引數': 將 'T' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\AfterGame.cpp(20,69): warning C4244: '引數': 將 'T' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\AfterGame.cpp(33,62): warning C4244: '引數': 將 'T' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=unsigned int
+          ]
+  Ball.cpp
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Ball.cpp(12,15): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Ball.cpp(13,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Ball.cpp(14,15): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Button.cpp
+  Game.cpp
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Game.cpp(269,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Game.cpp(275,24): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Game.cpp(338,20): warning C4244: '引數': 將 'clock_t' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Guide.cpp
+  Members.cpp
+  Menu.cpp
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(26,30): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(27,36): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(30,26): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(31,36): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(34,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(35,38): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(38,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(39,38): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(42,30): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Menu.cpp(43,39): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  player.cpp
+  Player2.cpp
+C:\Users\User\Downloads\college\110-1ProgramingDesign\C++\FinalProject\SFML\Project1\Project1\Player2.cpp(48,48): warning C4244: '引數': 將 'T' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=unsigned int
+          ]
+  Screen.cpp
+  main.cpp
+  Setting.cpp
+  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" 以返回碼 1181 結束。
+LINK : fatal error LNK1181: 無法開啟輸入檔 'sfml-system-lib.obj'
